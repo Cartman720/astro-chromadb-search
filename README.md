@@ -43,7 +43,7 @@ To run the application, follow these steps:
 
 ### UI Showcase
 
-![Dec-27-2023 04-34-16](https://github.com/Cartman720/astro-chromadb-search/assets/12465135/933c542e-875e-46e9-bd5c-5d06ddfc154a)
+![Dec-27-2023 04-37-21](https://github.com/Cartman720/astro-chromadb-search/assets/12465135/57c376d7-36d9-46f4-99ce-d067fabdd059)
 
 
 ### Code Quality
